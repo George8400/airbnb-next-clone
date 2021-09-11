@@ -13,7 +13,7 @@ export default function Banner() {
             objectPosition="top" />
 
             <div className="absolute top-1/2 w-full text-center" >
-                <p className="text-sm
+                <p className="text-sm font-semibold
                 sm:text-lg" >Not sure where to go? Perfect.</p>
             
                 <button className="font-bold text-purple-500 bg-white px-10 py-4 rounded-full shadow-md my-3
